@@ -1,0 +1,45 @@
+
+# ==========================================
+# LEDControl - Xcode / Swift
+# ==========================================
+
+# Xcode build outputs
+build/
+DerivedData/
+*.app
+*.appex
+*.dSYM
+*.dSYM.zip
+*.ipa
+
+# Xcode user-specific settings
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# Xcode temporary files
+*.hmap
+*.ipa
+*.swp
+*.swo
+*~
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+Package.resolved
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.log
+*.tmp
+
+# Local environment files
+.env
+.env.*
+!.env.example
