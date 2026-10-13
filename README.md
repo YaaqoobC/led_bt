@@ -2,8 +2,8 @@
 ## App
 A simple iOS app built with SwiftUI and CoreBluetooth to turn my LED lights on and off over Bluetooth Low Energy (BLE). Connects directly to the LED controller and sends commands through GATT. Includes a Home Screen widget for quick access.
 
-<img src="images/workingImage.PNG" alt="BT On" width="49%"/>
-<img src="images/widget.jpg" alt="BT" width="49%"/>
+<img src="images/workingImage.PNG" alt="BT On" width="30%"/>
+<img src="images/widget.jpg" alt="BT" width="30%"/>
 
 ## POC Findings:
 - Uses BLE
