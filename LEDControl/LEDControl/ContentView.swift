@@ -29,7 +29,7 @@ struct ContentView: View {
             Button {
                 bluetooth.turnOff()
             } label: {
-                Label("Turn Off", systemImage: "power")
+                Label("Turn Off", systemImage: "bolt.slash")
                     .font(.title2)
                     .frame(maxWidth: .infinity)
                     .padding()
