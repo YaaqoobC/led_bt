@@ -1,5 +1,5 @@
 # Bluetooth Controller for my Room LED Lights:
-## App
+## App (LEDControl)
 A simple iOS app built with SwiftUI and CoreBluetooth to turn my LED lights on and off over Bluetooth Low Energy (BLE). Connects directly to the LED controller and sends commands through GATT. Includes a Home Screen widget for quick access.
 
 <p float="left">
