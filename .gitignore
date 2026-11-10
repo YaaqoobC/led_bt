@@ -12,6 +12,19 @@ DerivedData/
 *.dSYM.zip
 *.ipa
 
+# CMake / Pico SDK build outputs
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+compile_commands.json
+*.elf
+*.uf2
+*.hex
+*.bin
+*.map
+*.dis
+
 # Xcode user-specific settings
 *.xcuserstate
 xcuserdata/
@@ -43,3 +56,6 @@ Package.resolved
 .env
 .env.*
 !.env.example
+
+# Local VS Code workspace settings
+/.vscode/settings.json
